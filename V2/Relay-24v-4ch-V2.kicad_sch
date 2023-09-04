@@ -5,7 +5,7 @@
   (paper "A4")
 
   (title_block
-    (title "4x 24V Relay Module")
+    (title "4x 24V 8A Relay Module")
     (date "2023-05-21")
     (rev "V1")
   )
